@@ -32,3 +32,9 @@ Then the images should be displayed in rows across the screen
 How are we implementing it?
 Style your application using floats.
 Utilize at least one Google font.
+
+Number and name of feature: Feature #1: Display images
+Estimate of time needed to complete: 1.5 hrs
+Start time: 9am
+Finish time: 12pm (30hr lunch break)
+Actual time needed to complete: 2.5hr
