@@ -34,17 +34,22 @@ Style your application using floats.
 Utilize at least one Google font.
 
 Number and name of feature: Feature #1: Display images
-<<<<<<< HEAD
-
-Estimate of time needed to complete: 1.5 hrs
-
-Start time: 9am
-
-Finish time: 12pm (30hr lunch break)
-
-=======
 Estimate of time needed to complete: 1.5 hrs
 Start time: 9am
 Finish time: 12pm (30hr lunch break)
->>>>>>> f4738b301f3e906911af3cdd7d9b0bb80a2ae115
 Actual time needed to complete: 2.5hr
+
+
+Number and name of feature: Feature #2: Filter images
+Estimate of time needed to complete: 2 hrs
+Start time: 12pm
+Finish time: got 95% finshed by 2pm
+Actual time needed to complete: 2+ hours
+
+
+Number and name of feature: Feature #3: Style the application
+Estimate of time needed to complete: 1 hrs
+Start time:9am
+Finish time: 9:30am
+Actual time needed to complete: 30 minutes
+
