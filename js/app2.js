@@ -11,6 +11,14 @@ $(document).ready(function() {
         createKeyWord2.attr('value2', `${data.keyword}`);
         createKeyWord2.text(`${data.keyword}`);
         $('select').append(createKeyWord2);
+        let createTitle = $('<h2></h2>');
+        createTitle.attr(`${data.title}`);
+        createTitle.text(`${data.title}`);
+        $('#photo-template').append(createTitle);
+        let createDesc = $('<p></p>');
+        createDesc.attr(`${data.description}`);
+        createDesc.text(`${data.description}`);
+        $('#photo-template').append(createDesc);
       });
       console.log(horns);
     });
