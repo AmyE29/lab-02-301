@@ -62,5 +62,11 @@ Actual time needed to complete: 30 minutes
 Number and name of feature: Lab 03 Feature 1: Pagination
 Estimate of time needed to complete: 2hours
 Start time: 10
+Finish time: 11:46
+Actual time needed to complete:  1.75hrs
+
+Number and name of feature: Lab 03 Feature 2: Templating
+Estimate of time needed to complete: 2hours
+Start time: 11:50
 Finish time: 
 Actual time needed to complete:  
