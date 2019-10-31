@@ -1,0 +1,24 @@
+h1 {
+    font-size: 36pt;
+    font-family: 'Stoke', serif;
+    text-align: center;
+}
+
+h2, p, footer, select {
+    font-family: 'Stoke', serif;
+    font-size: 15pt;
+    text-align: center;
+
+}
+
+/* p {
+    font-family: 'Stoke', serif;
+
+}
+
+
+footer {
+
+    font-family: 'Stoke', serif;
+
+} */
