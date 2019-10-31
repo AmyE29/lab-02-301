@@ -53,3 +53,14 @@ Start time:9am
 Finish time: 9:30am
 Actual time needed to complete: 30 minutes
 
+Number and name of feature: Feature #3: Style the application
+Estimate of time needed to complete: 1 hrs
+Start time:9am
+Finish time: 9:30am
+Actual time needed to complete: 30 minutes
+
+Number and name of feature: Lab 03 Feature 1: Pagination
+Estimate of time needed to complete: 2hours
+Start time: 10
+Finish time: 
+Actual time needed to complete:  
